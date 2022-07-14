@@ -1,7 +1,8 @@
-package dev.cancio.pokedex
+package dev.cancio.pokedex.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import dev.cancio.pokedex.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
